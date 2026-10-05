@@ -34,6 +34,7 @@ sin²(x) + 7.4 > 0
 ### Блок-схема:
 <img width="1100" height="1424" alt="block_scheme_task20" src="https://github.com/user-attachments/assets/5c2aae9f-2412-4983-8458-463035d26483" />
 ## 2. Реализация программы
+
 ```c
 #include <stdio.h>
 #include <math.h>
@@ -68,6 +69,7 @@ int main()
     return 0;
 }
 ```
+
 ## 3. Результаты работы программы
 ### Случай 1
 Контрольный пример из задания:
